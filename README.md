@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Karen!  
 
-<!--
-**K-Coughlin/K-Coughlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Senior Year Computer Engineering Student @ UMass Amherst**  
+💻 Passionate about **Software Development**, **Embedded Systems Firmware**, and **IT Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I'm a computer engineering student in my final year of college, eager to bring innovative ideas to life through code and hardware. I thrive at the intersection of software and hardware, with a strong interest in:  
+
+- **Software Development**: Building scalable, efficient, and user-friendly applications.  
+- **Embedded Systems & Firmware**: Designing and programming low-level systems for real-world applications.  
+- **IT Systems**: Managing and optimizing infrastructure to ensure seamless operations.  
+
+I'm always learning, tinkering, and exploring new technologies to solve complex problems.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+### 💡 Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+
+### 🔧 Embedded Systems  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)  
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-00878F?style=flat)  
+
+### 🖥️ IT & DevOps  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
+![Networking](https://img.shields.io/badge/-Networking-007ACC?style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+
+---
+
+## 📂 Projects  
+Here are some of the projects I've worked on:  
+
+1. **Lizard Lounge - Smart Vivarium for Reptiles**  
+   - Designing and implementing firmware for monitoring and maintaining a lizard vivarium 
+   - Tech: ESP32, MQTT, Arduino, Javascript, HTML, CSS, SQL.  
+
+2. **Mobile Game Development **
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Embedded Systems Design  
+- Cloud Computing (AWS, Azure)  
+- DevOps Practices  
+
+---
+
+## 📫 Let's Connect!  
+I'm always open to collaborating on exciting projects or discussing tech. Reach out to me:  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/karen-coughlin-it/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:c.coughlin.k@gmail.com)  
+
+---
+
+⭐ Thanks for visiting my GitHub! Let's build the future, one line of code at a time.  
