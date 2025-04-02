@@ -22,10 +22,12 @@ I'm always learning, tinkering, and exploring new technologies to solve complex 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Verilog](https://img.shields.io/badge/-Verilog-DD0031?style=flat&logo=verilog&logoColor=white)
 
 ### 🔧 Embedded Systems  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)  
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-00878F?style=flat)  
 
@@ -41,14 +43,16 @@ Here are some of the projects I've worked on:
 
 1. **Lizard Lounge - Smart Vivarium for Reptiles**  
    - Designing and implementing firmware for monitoring and maintaining a lizard vivarium 
-   - Tech: ESP32, MQTT, Arduino, Javascript, HTML, CSS, SQL.  
+   - Tech: ESP32, MQTT, Arduino, Javascript, HTML, CSS, Python, SQL.  
 
-2. **Mobile Game Development **
-
+2. **Mobile Game Development - Hobby**
+   - In process of developing a short mobile game in hopes to release on Google Play Store
+   - Tech: Unity, C#, Blender, GIMP, Audacity 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced Embedded Systems Design  
+- Advanced Embedded Systems Design
+- IT Support & Helpdesk procedure 
 - Cloud Computing (AWS, Azure)  
 - DevOps Practices  
 
@@ -62,4 +66,4 @@ I'm always open to collaborating on exciting projects or discussing tech. Reach 
 
 ---
 
-⭐ Thanks for visiting my GitHub! Let's build the future, one line of code at a time.  
+⭐ Thanks for visiting my GitHub!
