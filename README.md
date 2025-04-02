@@ -22,7 +22,7 @@ I'm always learning, tinkering, and exploring new technologies to solve complex 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
 ![Verilog](https://img.shields.io/badge/-Verilog-DD0031?style=flat&logo=verilog&logoColor=white)
 
 ### 🔧 Embedded Systems  
