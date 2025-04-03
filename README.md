@@ -41,7 +41,7 @@ I'm always learning, tinkering, and exploring new technologies to solve complex 
 ## 📂 Projects  
 Here are some of the projects I've worked on:  
 
-1. **Lizard Lounge - Smart Vivarium for Reptiles**  
+1. **[Lizard Lounge](https://github.com/k-coughlin/lizard-lounge) - Smart Vivarium for Reptiles**  
    - Designing and implementing firmware for monitoring and maintaining a lizard vivarium 
    - Tech: ESP32, MQTT, Arduino, Javascript, HTML, CSS, Python, SQL.  
 
