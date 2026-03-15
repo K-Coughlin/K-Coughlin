@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Karen!  
+# 👋 Hey, I'm Karen!  
 
-🎓 **Senior Year Computer Engineering Student @ UMass Amherst**  
+🎓 **Computer Engineering Graduate from UMass Amherst**  
 💻 Passionate about **Software Development**, **Embedded Systems Firmware**, and **IT Systems**  
 
 ---
 
 ## 🚀 About Me  
-I'm a computer engineering student in my final year of college, eager to bring innovative ideas to life through code and hardware. I thrive at the intersection of software and hardware, with a strong interest in:  
+I'm a computer engineering graduate currently employed as a Robotics Engineer at an aerospace startup, eager to bring innovative ideas to life through code and hardware. 
+
+I thrive at the intersection of software and hardware, with a strong interest in:  
 
 - **Software Development**: Building scalable, efficient, and user-friendly applications.  
 - **Embedded Systems & Firmware**: Designing and programming low-level systems for real-world applications.  
@@ -61,7 +63,7 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect!  
 I'm always open to collaborating on exciting projects or discussing tech. Reach out to me:  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/karen-coughlin-it/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/karen-coughlin-ma/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:c.coughlin.k@gmail.com)  
 
 ---
